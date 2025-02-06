@@ -31,10 +31,6 @@ Stay tuned for projects related to **GeoAI**, **disaster response modeling**, an
 
 ---
 
-### 📫 **Let’s Connect:**  
-- [LinkedIn](https://www.linkedin.com/in/theresa-monari-4a366527a/)  
-- [Twitter](https://x.com/IamNyatichi?t=vDb-SIDv0ITYSM-4s9ONMA&s=09)  
-
 *"Mapping the world, one data point at a time for sustainability."* 🌍
 
 ---
