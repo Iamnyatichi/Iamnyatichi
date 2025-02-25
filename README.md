@@ -9,6 +9,8 @@
 ### 🌍 **About Me:**  
 I am passionate about leveraging **GIScience**, **Remote Sensing**, and **GeoAI** to drive **environmental sustainability**. My research focuses on harnessing the power of **GeoAI for disaster response**, aiming to create innovative solutions that enhance resilience and support affected communities.
 
+Reach me out: nyatichitheresa@gmail.com
+
 ---
 
 ### 🎓 **Education:**  
