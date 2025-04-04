@@ -6,7 +6,6 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1pGILdJHL-ui8uohdUOcvE5jkm7O8rMqC5TCL6h84Rb4/edit?tab=t.0)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
-### 🌍 **About Me:**  
 I am passionate about leveraging **GIScience**, **Remote Sensing**, and **GeoAI** to drive **environmental sustainability**. My research focuses on harnessing the power of **GeoAI for disaster response**, aiming to create innovative solutions that enhance resilience and support affected communities.
 
 Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
@@ -15,16 +14,15 @@ Reach me out: nyatichitheresa@gmail.com
 
 ---
 
-### 🎓 **Education:**  
-- **Bachelor of Technology in Surveying Technology**.
-
----
-
-### 🔬 **Research Interests:**  
+### 🌍 **Research Interests:**  
 - 🌐 GeoAI for Disaster Response  
 - 🛰️ Remote Sensing Applications  
 - 📊 GIScience for Environmental Sustainability
 - 🗃️ Spatial Data Science
+
+---
+### 🎓 **Education:**  
+- **Bachelor of Technology in Surveying Technology**.
 
 *"Mapping the world, one data point at a time for sustainability."* 🌍
 
