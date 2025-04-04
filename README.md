@@ -17,7 +17,6 @@ Reach me out: nyatichitheresa@gmail.com
 
 ### 🎓 **Education:**  
 - **Bachelor of Technology in Surveying Technology**.
-- *Incoming* **Master of Science in Geography - Geographic Information Science (GIS) Specialization** at **South Dakota State University (SDSU)**.
 
 ---
 
@@ -26,14 +25,6 @@ Reach me out: nyatichitheresa@gmail.com
 - 🛰️ Remote Sensing Applications  
 - 📊 GIScience for Environmental Sustainability
 - 🗃️ Spatial Data Science
-
-###  💡**Current Focus:**  
-As I embark on my Master’s journey at SDSU, I am excited to dive deeper into cutting-edge GIS technologies, collaborate on impactful projects, and contribute to the growing field of geospatial data science.
-
-#### 🚀 **GitHub Projects Coming Soon!**  
-Stay tuned for projects related to **GeoAI**, **disaster response modeling**, and **remote sensing analytics**
-
----
 
 *"Mapping the world, one data point at a time for sustainability."* 🌍
 
