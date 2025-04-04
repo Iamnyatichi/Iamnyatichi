@@ -1,4 +1,4 @@
-## Theresa Nyatichi Monari
+## Theresa Monari
 
 [![GitHub Badge](https://img.shields.io/github/followers/Iamnyatichi?style=social)](https://github.com/Iamnyatichi?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/IamNyatichi?style=social)](https://twitter.com/IamNyatichi)
@@ -8,6 +8,8 @@
 
 ### 🌍 **About Me:**  
 I am passionate about leveraging **GIScience**, **Remote Sensing**, and **GeoAI** to drive **environmental sustainability**. My research focuses on harnessing the power of **GeoAI for disaster response**, aiming to create innovative solutions that enhance resilience and support affected communities.
+
+Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 
 Reach me out: nyatichitheresa@gmail.com
 
