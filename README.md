@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Iamnyatichi?style=social)](https://github.com/Iamnyatichi?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/IamNyatichi?style=social)](https://twitter.com/IamNyatichi)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/theresa-monari-4a366527a)
-[![Resume Badge](https://img.shields.io/badge/My-CV-critical)]([https://docs.google.com/document/d/1TX88-oBl05haR6B7FI3Z_JbwT1F_GsQ9ulb8VZhh7_Q/edit?tab=t.0](https://docs.google.com/document/d/1Q2Vreastgi6_EO2Jlnj752OvAyHVLN8cLNzirCUWjMU/edit?usp=sharing))
+[![Resume Badge](https://img.shields.io/badge/My-CV-critical)]([https://docs.google.com/document/d/1TX88-oBl05haR6B7FI3Z_JbwT1F_GsQ9ulb8VZhh7_Q/edit?tab=t.0](https://docs.google.com/document/d/1Q2Vreastgi6_EO2Jlnj752OvAyHVLN8cLNzirCUWjMU/edit?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
 I am passionate about leveraging **GIScience**, **Remote Sensing**, **Spatial Data Science**, and **GeoAI** to drive **environmental sustainability**. My research focuses on harnessing the power of **GeoAI for disaster management and response**, aiming to create innovative solutions that enhance resilience and support affected communities.
