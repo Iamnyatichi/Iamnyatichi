@@ -6,7 +6,8 @@
 [![Resume Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1aikwshTBXVY8zCb90VI-p---uADsAtnmGZ0O4bf3Vw4/edit?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
-I am passionate about leveraging **GIScience**, **Remote Sensing**, **Spatial Data Science**, and **GeoAI** to drive **environmental sustainability**. My research focuses on harnessing the power of **GeoAI for disaster management and response**, aiming to create innovative solutions that enhance resilience and support affected communities.
+*"To apply GeoAI and socio-spatial analytics for improving healthcare access and reducing health disparities."*
+* 🌍 Geospatial researcher-in-training | 📊 Focus: GeoHealth, Spatial Statistics & GeoAI
 
 Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 
@@ -14,17 +15,16 @@ Reach me out: nyatichitheresa@gmail.com
 
 ---
 
-### 🌍 **Research Interests:**  
-- 🌐 GeoAI for Disaster Response  
-- 🛰️ Remote Sensing Applications  
-- 📊 GIScience for Environmental Sustainability
-- 🗃️ Spatial Data Science
+| Research Interests    | Building Expertise |
+| -------- | ------- |
+| - 🌐 GeoHealth   | - Python for GIS/Remote Sensing (pandas, GeoPandas, rasterio, scikit-learn)   |
+| - 📊 GeoAI  | -  Machine Learning & Deep Learning  |
+|- 🛰️ Remote Sensing Applications    | - Healthcare GIS applications (accessibility, equity, disease mapping)   |
+| - 🗃️ Spatial Data Science  | - Spatial Statistics & Data Analysis        |
 
 ---
 ### 🎓 **Education:**  
 - **Bachelor of Technology in Surveying Technology**.
-
-*"Mapping the world, one data point at a time for sustainability."* 🌍
 
 ---
 
