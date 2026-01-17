@@ -7,7 +7,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
 *"To apply GeoAI and socio-spatial analytics for improving healthcare access and reducing health disparities."*
-* 🌍 Geospatial researcher-in-training | 📊 Focus: GeoHealth, Spatial Statistics & GeoAI
+* 🌍 Geospatial researcher-in-training | 📊 Focus: GeoHealth, Spatial Data Science & GeoAI
 
 Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 
