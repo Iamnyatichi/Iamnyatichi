@@ -17,7 +17,7 @@ Reach me out: nyatichitheresa@gmail.com
 
 | Research Interests    | Building Expertise |
 | -------- | ------- |
-| - 🌐 GIScience   | - Python for GIS/Remote Sensing (pandas, GeoPandas, rasterio, scikit-learn)   |
+| - 🌐 GIScience   | - Python for GIS (pandas, GeoPandas, rasterio, scikit-learn)   |
 | - 📊 GeoAI  | -  Machine Learning & Deep Learning  |
 |- 🛰️ Remote Sensing Applications    | - Google Earth Engine  |
 | - 🗃️ Spatial Data Science  | - Spatial Statistics & Data Analysis        |
