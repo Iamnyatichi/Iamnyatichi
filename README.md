@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Iamnyatichi?style=social)](https://github.com/Iamnyatichi?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/tessnyatichi?style=social)](https://twitter.com/tessnyatichi)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/theresa-monari-4a366527a)
-[![Resume Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1aikwshTBXVY8zCb90VI-p---uADsAtnmGZ0O4bf3Vw4/edit?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/My-Resume-critical)](https://docs.google.com/document/d/1aikwshTBXVY8zCb90VI-p---uADsAtnmGZ0O4bf3Vw4/edit?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
 *"To apply GeoAI and Spatial Data Science to provide Spatial Solutions."*
