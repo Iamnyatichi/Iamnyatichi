@@ -6,8 +6,8 @@
 [![Resume Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1aikwshTBXVY8zCb90VI-p---uADsAtnmGZ0O4bf3Vw4/edit?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
-*"To apply GeoAI and socio-spatial analytics for improving healthcare access and reducing health disparities."*
-* 🌍 Geospatial researcher-in-training | 📊 Focus: GeoHealth, Spatial Data Science & GeoAI
+*"To apply GeoAI and Spatial Data Science to provide Spatial Solutions."*
+* 🌍 Geospatial researcher-in-training | 📊 Focus: GIScience, Spatial Data Science & GeoAI
 
 Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 
@@ -17,9 +17,9 @@ Reach me out: nyatichitheresa@gmail.com
 
 | Research Interests    | Building Expertise |
 | -------- | ------- |
-| - 🌐 GeoHealth   | - Python for GIS/Remote Sensing (pandas, GeoPandas, rasterio, scikit-learn)   |
+| - 🌐 GIScience   | - Python for GIS/Remote Sensing (pandas, GeoPandas, rasterio, scikit-learn)   |
 | - 📊 GeoAI  | -  Machine Learning & Deep Learning  |
-|- 🛰️ Remote Sensing Applications    | - Healthcare GIS applications (accessibility, equity, disease mapping)   |
+|- 🛰️ Remote Sensing Applications    | Google Eart Engine  |
 | - 🗃️ Spatial Data Science  | - Spatial Statistics & Data Analysis        |
 
 ---
