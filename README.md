@@ -1,33 +1,25 @@
 ## Theresa Monari
 
+[![Resume Badge](https://img.shields.io/badge/My-Resume-critical)](https://docs.google.com/document/d/1_Rg1PBp0y6WmFSFwGNYd0UzlHjCkbE-woMeJwvNYSmk/edit?usp=sharing)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/theresa-monari-4a366527a)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 [![GitHub Badge](https://img.shields.io/github/followers/Iamnyatichi?style=social)](https://github.com/Iamnyatichi?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/tessnyatichi?style=social)](https://twitter.com/tessnyatichi)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/theresa-monari-4a366527a)
-[![Resume Badge](https://img.shields.io/badge/My-Resume-critical)](https://docs.google.com/document/d/1_Rg1PBp0y6WmFSFwGNYd0UzlHjCkbE-woMeJwvNYSmk/edit?usp=sharing).
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iamnyatichi.Iamnyatichi)
 
-*"To apply GeoAI and Spatial Data Science to provide Spatial Solutions."*
-* 🌍 Geospatial researcher-in-training | 📊 Focus: GIScience, Spatial Data Science & GeoAI
+I am a geospatial researcher and professional with interests in Geographic Information Science (GIScience), GeoAI, spatial data science, Graph Machine Learning, transportation analytics, spatial network analysis, and remote sensing. I am passionate about applying geospatial technologies and AI/ML in Network Science to understand complex urban and environmental systems and support evidence-based decision-making.
 
-Check my GIS Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
+ ## Research Interests  
 
-Reach me out: nyatichitheresa@gmail.com
+
+GIScience | Geospatial AI (GeoAI) & Machine Learning | Spatial Network Science | Urban & Transportation Informatics | Environmental Health | Remote Sensing.
 
 ---
 
-| Research Interests    | 
-| -------- | 
-| - 🌐 GIScience   |
-| - 📊 GeoAI  | 
-|- 🛰️ Remote Sensing Applications    | 
-| - 🗃️ Spatial Data Science  |
-|-  ⚠ Disaster Resilience |
-|- 🚶‍♂️ Human Mobility |
-|- 🏥 Public Health |
-|- 🏭🛣 Urban and Transportation Geography |
+My Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 
----
-### 🎓 **Education:**  
+Reach out to me: nyatichitheresa@gmail.com
+
+## Education: 
 - **Bachelor of Technology in Surveying Technology**.
 
 ---
