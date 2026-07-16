@@ -20,7 +20,7 @@ My Portfolio: [Theresa GIS Portfolio](https://iamnyatichi.github.io/)
 Reach out to me: nyatichitheresa@gmail.com
 
 ## Education: 
- - *The Technical University of Kenya*     | Bachelor of Technology in Surveying Technology.
+ - The Technical University of Kenya | *Bachelor of Technology in Surveying Technology.*
 
 ---
 
