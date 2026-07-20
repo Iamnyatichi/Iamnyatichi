@@ -11,7 +11,7 @@ I am a geospatial researcher and professional with interests in Geographic Infor
  ## Research Interests  
 
 
-GIScience | Geospatial AI (GeoAI) & Machine Learning | Spatial Network Science | Urban & Transportation Informatics | Environmental Health | Remote Sensing.
+GIScience | Geospatial AI (GeoAI) | Spatial Network Science | Urban & Transportation Informatics | Environmental Health | Remote Sensing | Disaster Resilience.
 
 ---
 
