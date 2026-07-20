@@ -6,12 +6,12 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Iamnyatichi?style=social)](https://github.com/Iamnyatichi?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/tessnyatichi?style=social)](https://twitter.com/tessnyatichi)
 
-I am a geospatial researcher and professional with interests in Geographic Information Science (GIScience), GeoAI, spatial data science, Graph Machine Learning, transportation analytics, spatial network analysis, and remote sensing. I am passionate about applying geospatial technologies and AI/ML in Network Science to understand complex urban and environmental systems and support evidence-based decision-making.
+I am a geospatial researcher and professional with interests in Geographic Information Science (GIScience), GeoAI, spatial data science, transportation analytics, spatial network analysis, and remote sensing. I am passionate about applying geospatial technologies and AI/ML in Network Science to understand complex urban and environmental systems and support evidence-based decision-making.
 
  ## Research Interests  
 
 
-GIScience | Geospatial AI (GeoAI) | Spatial Network Science | Urban & Transportation Informatics | Environmental Health | Remote Sensing | Disaster Resilience.
+Spatial Data Science | Geospatial AI (GeoAI) | Spatial Network Science | Urban & Transportation Informatics | Environmental Health | Remote Sensing | Disaster Resilience.
 
 ---
 
